@@ -49,4 +49,4 @@ Implemented a 2D quantum walk simulation and analyzed the resulting probability 
 ---
 
 ## 🌐 Links
-[GitHub]([https://github.com/yourusername](https://github.com/didepoyraz)) · [LinkedIn](https://linkedin.com/in/dide-poyraz) · [Email](mailto:didepyz@gmail.com)
+[GitHub](https://github.com/didepoyraz) · [LinkedIn](https://linkedin.com/in/dide-poyraz) · [Email](mailto:didepyz@gmail.com)
