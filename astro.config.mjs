@@ -12,7 +12,6 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   site: "https://didepoyraz.github.io/",  
   base: "/",                             
-  integrations: [github()],
   vite: {
     plugins: [tailwindcss()],
   },
