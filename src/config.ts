@@ -73,8 +73,7 @@ export const siteConfig = {
       dateRange: "2024 - 2025",
       achievements: [
         "Graduated with a Distinction.",
-        "Courses: Distributed Systems, Machine Learning Systems (GPU Programming), Applied Cloud Programming,
-Algorithmic Game Theory, Reinforcement Learning, and Introduction to Quantum Computing.",
+        "Courses: Distributed Systems, Machine Learning Systems (GPU Programming), Applied Cloud Programming, Algorithmic Game Theory, Reinforcement Learning, and Introduction to Quantum Computing.",
       ],
     },
     {
@@ -85,8 +84,7 @@ Algorithmic Game Theory, Reinforcement Learning, and Introduction to Quantum Com
         "Honours Student.",
         "Member of AtLarge Research: Massivizing Computer Systems, contributing to cutting-edge research in
 computing scalability and efficiency.",
-        "Deep Programming Minor: Advanced Network Programming, Compiler Construction, Concurrency and
-Multithreading, Security Programming",
+        "Deep Programming Minor: Advanced Network Programming, Compiler Construction, Concurrency and Multithreading, Security Programming",
       ],
     },
   ],
