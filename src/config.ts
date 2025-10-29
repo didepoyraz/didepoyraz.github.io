@@ -82,8 +82,7 @@ export const siteConfig = {
       dateRange: "2021 - 2024",
       achievements: [
         "Honours Student.",
-        "Member of AtLarge Research: Massivizing Computer Systems, contributing to cutting-edge research in
-computing scalability and efficiency.",
+        "Member of AtLarge Research: Massivizing Computer Systems, contributing to cutting-edge research in computing scalability and efficiency.",
         "Deep Programming Minor: Advanced Network Programming, Compiler Construction, Concurrency and Multithreading, Security Programming",
       ],
     },
