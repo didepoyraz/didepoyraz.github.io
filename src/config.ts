@@ -9,8 +9,8 @@ export const siteConfig = {
     github: "https://github.com/didepoyraz",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I'm a ",
+  skills: ["Spring Boot", "PyTorch", "CuPy", "Python", "Kafka", "C", "C++", "Docker", "RabbitMQ", "Redis", "Azure Blob Storage", "Postman", "Vulkan"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
@@ -72,7 +72,7 @@ export const siteConfig = {
       degree: "Master of Science in Computer Science",
       dateRange: "2024 - 2025",
       achievements: [
-        "Graduated with a Distinction.",
+        "Degree awarded with Distinction.",
         "Courses: Distributed Systems, Machine Learning Systems (GPU Programming), Applied Cloud Programming, Algorithmic Game Theory, Reinforcement Learning, and Introduction to Quantum Computing.",
       ],
     },
