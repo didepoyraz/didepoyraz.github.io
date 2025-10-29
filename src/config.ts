@@ -72,8 +72,9 @@ export const siteConfig = {
       degree: "Master of Science in Computer Science",
       dateRange: "2024 - 2025",
       achievements: [
-        "Graduated with a Distinction",
-        "President of Computer Science Club",
+        "Graduated with a Distinction.",
+        "Courses: Distributed Systems, Machine Learning Systems (GPU Programming), Applied Cloud Programming,
+Algorithmic Game Theory, Reinforcement Learning, and Introduction to Quantum Computing.",
       ],
     },
     {
@@ -81,7 +82,11 @@ export const siteConfig = {
       degree: "Bachelor of Science in Computer Science",
       dateRange: "2021 - 2024",
       achievements: [
-        "Honours Student",
+        "Honours Student.",
+        "Member of AtLarge Research: Massivizing Computer Systems, contributing to cutting-edge research in
+computing scalability and efficiency.",
+        "Deep Programming Minor: Advanced Network Programming, Compiler Construction, Concurrency and
+Multithreading, Security Programming",
       ],
     },
   ],
