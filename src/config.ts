@@ -8,9 +8,9 @@ export const siteConfig = {
     linkedin: "https://www.linkedin.com/in/dide-poyraz/",
     github: "https://github.com/didepoyraz",
   },
-  // aboutMe:
-  //   "I'm a ",
-  // skills: ["Spring Boot", "PyTorch", "CuPy", "Python", "Kafka", "C", "C++", "Docker", "RabbitMQ", "Redis", "Azure Blob Storage", "Postman", "Vulkan"],
+  aboutMe:
+    "I'm a ",
+  skills: ["Spring Boot", "PyTorch", "CuPy", "Python", "Kafka", "C", "C++", "Docker", "RabbitMQ", "Redis", "Azure Blob Storage", "Postman", "Vulkan"],
   projects: [
     {
       name: "Retrieval-Augmented Generation (RAG) service",
