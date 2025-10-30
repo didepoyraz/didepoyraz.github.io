@@ -23,7 +23,7 @@ export const siteConfig = {
       name: "GPU-Accelerated Vector Search and Clustering System",
       description:
         "Designed to process large-scale, high-dimensional datasets efficiently. Built using PyTorch-CUDA, it integrates K-Means and Approximate Nearest Neighbor (ANN) algorithms to explore the lifecycle of machine learning workflows involving massive vector data, supporting multiple distance metrics such as L2 and cosine. The system is memory-aware, it dynamically adapts to GPU capacity (up to 80%) and uses batching with CUDA streams to overlap data transfers and computation. Overall, this GPU-based system achieves up to 150× speedup over CPU implementations while maintaining strong recall and low query latency across varying distance metrics.",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
+      link: "https://openreview.net/pdf?id=NDqo7LyrH4",
       skills: ["GPU", "PyTorch", "CUDA", "Vector Search"],
     },
     {
