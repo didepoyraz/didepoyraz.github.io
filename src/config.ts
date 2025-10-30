@@ -29,9 +29,9 @@ export const siteConfig = {
     {
       name: "Java REST Service with Docker Deployment",
       description:
-        "Developed a cloud-ready RESTful microservice using Java (Spring Boot), designed to simulate real-world key–value data management and external API integration scenarios. The application implements multiple HTTP endpoints (GET, POST, DELETE) with structured JSON handling, parameter validation, and error management that reflects secure and scalable cloud-native architecture principles. The service is packaged into a Docker container to enable portable deployment across cloud environments (AWS, Azure, GCP). Robust endpoint testing is conducted using Postman to ensure production-level reliability, emphasize infrastructure automation, and ensure proper status code handling.",
+        "Developed a cloud-ready RESTful microservice using Java (Spring Boot), designed to simulate real-world key–value data management and external API integration scenarios. The application implements multiple HTTP endpoints (GET, POST, DELETE) with structured JSON handling, parameter validation, and error management. The application aims to reflect secure and scalable cloud-native architecture principles and it is packaged into a Docker container to enable portable deployment across cloud environments (AWS, Azure, GCP). Robust endpoint testing is conducted using Postman to ensure production-level reliability, emphasize infrastructure automation, and ensure proper status code handling.",
       link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["Java", "Spring Boot", "AWS", "Postman", "Cloud Architectures"],
     },
   ],
   experience: [
