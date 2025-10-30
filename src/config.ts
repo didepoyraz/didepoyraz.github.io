@@ -27,42 +27,29 @@ export const siteConfig = {
       skills: ["GPU", "PyTorch", "CUDA", "Vector Search"],
     },
     {
-      name: "ExtensionKit",
+      name: "Java REST Service with Docker Deployment",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
+        "Developed a cloud-ready RESTful microservice using Java (Spring Boot), designed to simulate real-world key–value data management and external API integration scenarios. The application implements multiple HTTP endpoints (GET, POST, DELETE) with structured JSON handling, parameter validation, and error management that reflects secure and scalable cloud-native architecture principles. The service is packaged into a Docker container to enable portable deployment across cloud environments (AWS, Azure, GCP). Robust endpoint testing is conducted using Postman to ensure production-level reliability, emphasize infrastructure automation, and ensure proper status code handling.",
       link: "https://extensionkit.io/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Vrije Universiteit Amsterdam",
+      title: "Teacher Assistant",
+      dateRange: "2023-2024",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Led labs on socket programming, client-server apps, TCP/IP; graded and provided feedback on assignments.",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Vrije Universiteit Amsterdam",
+      title: "Teacher Assistant",
+      dateRange: "2024",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Developed and assessed exercises, quizzes, and exams focused on designing maintainable, large-scale software
+systems.",
       ],
     },
   ],
