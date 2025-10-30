@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/didepoyraz",
   },
   aboutMe:
-    "I'm a Computer Science graduate specializing in distributed systems, GPU computing, and machine learning infrastructure. My thesis focused on distributed matrix multiplication using heterogeneous CPU–GPU execution on Raspberry Pi clusters. I enjoy building efficient, scalable systems that bridges research and real-world deployment from GPU-accelerated ML pipelines to RAG and cloud microservices",
+    "I'm a Computer Science graduate specializing in distributed systems, GPU computing, and machine learning infrastructure. My master's thesis focused on distributed matrix multiplication using heterogeneous CPU–GPU execution on Raspberry Pi clusters. I enjoy building efficient, scalable systems that bridge research and real-world deployment from GPU-accelerated ML pipelines to RAG and cloud microservices",
   skills: ["Spring Boot", "PyTorch", "CuPy", "Python", "Kafka", "C", "C++", "Docker", "RabbitMQ", "Redis", "Azure Blob Storage", "Postman", "Vulkan"],
   projects: [
     {
