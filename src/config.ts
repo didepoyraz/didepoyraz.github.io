@@ -33,6 +33,14 @@ export const siteConfig = {
       // link: "https://extensionkit.io/?ref=devportfolio",
       skills: ["Java", "Spring Boot", "AWS", "Postman", "Cloud Architectures"],
     },
+     {
+      name: "Custom Network Stack (Advanced Network Programming)",
+      description:
+        "Designed and implemented a custom network stack in C, including ARP, ICMP, IP, and TCP layers. Built components for packet creation, routing, and buffering; implemented user-space buffer structures inspired by Linux kernel SKB. Delivered a functional client-server system capable of handling ARP resolution and TCP communication over a virtual network interface.",
+      // link: "https://extensionkit.io/?ref=devportfolio",
+      skills: ["TCP", "IP", "C", "Linux" ,"ARP", "Computer Networks"],
+    },
+    
   ],
   experience: [
     {
