@@ -15,9 +15,9 @@ export const siteConfig = {
     {
       name: "FastAPI-based Retrieval-Augmented Generation (RAG) service",
       description:
-        " with a python script to test the service with different request rates using TraceStorm including system deployment and optimization",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+       "A RAG service designed for efficient processing of natural language queries through queueing and dynamic batch execution. Built with FastAPI and Hugging Face Transformers, it batches incoming user requests for embedding, retrieval, and generation. The retrieved context is sent to a Large Language Model (LLM) to produce a final response. Optimizations such as autoscaling, load balancing, multithreading, and FAISS-based vector search reduce latency by over 50%, achieve near-100% success rates, and significantly improve throughput under burst and diurnal workloads.",
+        link: "https://openreview.net/pdf?id=NDqo7LyrH4",
+      skills: ["PyTorch", "FastAPI", "TraceStorm", "Hugging Face Transformers", "LLM", "Query Processing"],
     },
     {
       name: "GPU-Accelerated Vector Search and Clustering System",
