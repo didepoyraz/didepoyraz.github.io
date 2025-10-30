@@ -48,8 +48,7 @@ export const siteConfig = {
       title: "Teacher Assistant",
       dateRange: "2024",
       bullets: [
-        "Developed and assessed exercises, quizzes, and exams focused on designing maintainable, large-scale software
-systems.",
+        "Developed and assessed exercises, quizzes, and exams focused on designing maintainable, large-scale software systems.",
       ],
     },
   ],
