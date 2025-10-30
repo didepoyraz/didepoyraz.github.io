@@ -13,7 +13,7 @@ export const siteConfig = {
   skills: ["Spring Boot", "PyTorch", "CuPy", "Python", "Kafka", "C", "C++", "Docker", "RabbitMQ", "Redis", "Azure Blob Storage", "Postman", "Vulkan"],
   projects: [
     {
-      name: "FastAPI-based Retrieval-Augmented Generation (RAG) service",
+      name: "Retrieval-Augmented Generation (RAG) service",
       description:
        "A RAG service designed for efficient processing of natural language queries through queueing and dynamic batch execution. Built with FastAPI and Hugging Face Transformers, it batches incoming user requests for embedding, retrieval, and generation. The retrieved context is sent to a Large Language Model (LLM) to produce a final response. Optimizations such as autoscaling, load balancing, multithreading, and FAISS-based vector search reduce latency by over 50%, achieve near-100% success rates, and significantly improve throughput under burst and diurnal workloads.",
         link: "https://openreview.net/pdf?id=NDqo7LyrH4",
