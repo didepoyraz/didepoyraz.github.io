@@ -8,9 +8,9 @@ export const siteConfig = {
     linkedin: "https://www.linkedin.com/in/dide-poyraz/",
     github: "https://github.com/didepoyraz",
   },
-  aboutMe:
-    "I'm a ",
-  skills: ["Spring Boot", "PyTorch", "CuPy", "Python", "Kafka", "C", "C++", "Docker", "RabbitMQ", "Redis", "Azure Blob Storage", "Postman", "Vulkan"],
+  // aboutMe:
+  //   "I'm a ",
+  // skills: ["Spring Boot", "PyTorch", "CuPy", "Python", "Kafka", "C", "C++", "Docker", "RabbitMQ", "Redis", "Azure Blob Storage", "Postman", "Vulkan"],
   projects: [
     {
       name: "Retrieval-Augmented Generation (RAG) service",
@@ -45,7 +45,7 @@ export const siteConfig = {
   experience: [
     {
       company: "Vrije Universiteit Amsterdam",
-      title: "Teacher Assistant",
+      title: "Computer Networks Teacher Assistant",
       dateRange: "2023-2024",
       bullets: [
         "Led labs on socket programming, client-server apps, TCP/IP; graded and provided feedback on assignments.",
@@ -53,7 +53,7 @@ export const siteConfig = {
     },
     {
       company: "Vrije Universiteit Amsterdam",
-      title: "Teacher Assistant",
+      title: "Software Engineering Processes Teacher Assistant",
       dateRange: "2024",
       bullets: [
         "Developed and assessed exercises, quizzes, and exams focused on designing maintainable, large-scale software systems.",
