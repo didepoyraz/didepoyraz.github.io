@@ -13,18 +13,18 @@ export const siteConfig = {
   skills: ["Spring Boot", "PyTorch", "CuPy", "Python", "Kafka", "C", "C++", "Docker", "RabbitMQ", "Redis", "Azure Blob Storage", "Postman", "Vulkan"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "FastAPI-based Retrieval-Augmented Generation (RAG) service",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
+        " with a python script to test the service with different request rates using TraceStorm including system deployment and optimization",
       link: "https://aidevroundup.com/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "GPU-Accelerated Vector Search and Clustering System",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
+        "Designed to process large-scale, high-dimensional datasets efficiently. Built using PyTorch-CUDA, it integrates K-Means and Approximate Nearest Neighbor (ANN) algorithms to explore the lifecycle of machine learning workflows involving massive vector data. Overall, this GPU-based system achieves up to 150× speedup over CPU implementations while maintaining strong recall and low query latency across varying distance metrics.",
       link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["GPU", "PyTorch", "CUDA", "Vector Search"],
     },
     {
       name: "ExtensionKit",
