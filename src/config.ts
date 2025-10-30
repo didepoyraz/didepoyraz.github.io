@@ -16,14 +16,14 @@ export const siteConfig = {
       name: "Retrieval-Augmented Generation (RAG) service",
       description:
        "A RAG service designed for efficient processing of natural language queries through queueing and dynamic batch execution. Built with FastAPI and Hugging Face Transformers, it batches incoming user requests for embedding, retrieval, and generation. The retrieved context is sent to a Large Language Model (LLM) to produce a final response. Optimizations such as autoscaling, load balancing, multithreading, and FAISS-based vector search reduce latency by over 50%, achieve near-100% success rates, and significantly improve throughput under burst and diurnal workloads.",
-        link: "https://openreview.net/pdf?id=NDqo7LyrH4",
+        // link: "https://openreview.net/pdf?id=NDqo7LyrH4",
       skills: ["PyTorch", "FastAPI", "TraceStorm", "Hugging Face Transformers", "LLM", "Query Processing"],
     },
     {
       name: "GPU-Accelerated Vector Search and Clustering System",
       description:
         "Designed to process large-scale, high-dimensional datasets efficiently. Built using PyTorch-CUDA, it integrates K-Means and Approximate Nearest Neighbor (ANN) algorithms to explore the lifecycle of machine learning workflows involving massive vector data, supporting multiple distance metrics such as L2 and cosine. The system is memory-aware, it dynamically adapts to GPU capacity (up to 80%) and uses batching with CUDA streams to overlap data transfers and computation. Overall, this GPU-based system achieves up to 150× speedup over CPU implementations while maintaining strong recall and low query latency across varying distance metrics.",
-      link: "https://openreview.net/pdf?id=NDqo7LyrH4",
+      // link: "https://openreview.net/pdf?id=NDqo7LyrH4",
       skills: ["GPU", "PyTorch", "CUDA", "Vector Search"],
     },
     {
