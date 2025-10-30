@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Dide Poyraz",
-  title: "Msc Computer Science Graduate",
+  title: "MSc Computer Science Graduate",
   description: "Portfolio website of Dide Poyraz",
   accentColor: "#1d4ed8",
   social: {
